@@ -1,0 +1,1 @@
+Simple Mongo DB implementation with Java
